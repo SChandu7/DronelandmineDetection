@@ -78,3 +78,9 @@ We welcome contributions to improve detection accuracy, drone autonomy, or UI fe
 This project is licensed under the MIT License. See the LICENSE(Licencse) file for details.
 
 ---
+
+## Contact
+
+If you have any questions or suggestions regarding the Coffee app, feel free to contact us at kingchandus143@gmail.com 
+
+---
