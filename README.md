@@ -36,7 +36,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Landmine-Detection-Drone.git
+git clone https://github.com/SChandu7/DronelandmineDetection.git
 
 # Navigate to project folder
 cd Landmine-Detection-Drone
